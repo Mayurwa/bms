@@ -1,0 +1,355 @@
+
+src/com/cognizant/controller/ApplyEducationLoanController.java:28	Use explicit scoping instead of the default package private level
+src/com/cognizant/controller/ApplyEducationLoanController.java:29	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/controller/ApplyEducationLoanController.java:30	Use explicit scoping instead of the default package private level
+src/com/cognizant/controller/ApplyEducationLoanController.java:31	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/controller/ApplyEducationLoanController.java:31	Use explicit scoping instead of the default package private level
+src/com/cognizant/controller/ApplyEducationLoanController.java:37	Parameter 'AccName' is not assigned and could be declared final
+src/com/cognizant/controller/ApplyEducationLoanController.java:37	Parameter 'model' is not assigned and could be declared final
+src/com/cognizant/controller/ApplyEducationLoanController.java:46	Parameter 'educationLoan' is not assigned and could be declared final
+src/com/cognizant/controller/ApplyEducationLoanController.java:47	Parameter 'model' is not assigned and could be declared final
+src/com/cognizant/controller/ApplyEducationLoanController.java:47	Parameter 'msg' is not assigned and could be declared final
+src/com/cognizant/controller/ApplyEducationLoanController.java:48	Local variable 'accountNumber' could be declared final
+src/com/cognizant/controller/ApplyEducationLoanController.java:58	Avoid excessively long variable names like constraintViolations
+src/com/cognizant/controller/ApplyEducationLoanController.java:58	Local variable 'constraintViolations' could be declared final
+src/com/cognizant/controller/ApplyEducationLoanController.java:59	Local variable 'iterator' could be declared final
+src/com/cognizant/controller/ApplyEducationLoanController.java:61	Local variable 'next' could be declared final
+src/com/cognizant/controller/ApplyEducationLoanController.java:71	Avoid printStackTrace(); use a logger call instead.
+src/com/cognizant/controller/ApplyEducationLoanController.java:74	Avoid variables with short names like sb
+src/com/cognizant/controller/ApplyEducationLoanController.java:74	Local variable 'sb' could be declared final
+src/com/cognizant/controller/ApplyEducationLoanController.java:81	Avoid printStackTrace(); use a logger call instead.
+src/com/cognizant/controller/ApplyEducationLoanController.java:87	A method should have only one exit point, and that should be the last statement in the method
+src/com/cognizant/controller/ApplyEducationLoanController.java:92	Avoid using if...else statements without curly braces
+src/com/cognizant/controller/ApplyHomeLoanController.java:9	Avoid duplicate imports such as 'org.apache.log4j.Logger'
+src/com/cognizant/controller/ApplyHomeLoanController.java:25	Use explicit scoping instead of the default package private level
+src/com/cognizant/controller/ApplyHomeLoanController.java:26	Avoid excessively long variable names like applyHomeLoanService
+src/com/cognizant/controller/ApplyHomeLoanController.java:26	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/controller/ApplyHomeLoanController.java:27	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/controller/ApplyHomeLoanController.java:27	Use explicit scoping instead of the default package private level
+src/com/cognizant/controller/ApplyHomeLoanController.java:31	Parameter 'AccName' is not assigned and could be declared final
+src/com/cognizant/controller/ApplyHomeLoanController.java:31	Parameter 'model' is not assigned and could be declared final
+src/com/cognizant/controller/ApplyHomeLoanController.java:39	Parameter 'homeLoan' is not assigned and could be declared final
+src/com/cognizant/controller/ApplyHomeLoanController.java:39	Parameter 'result' is not assigned and could be declared final
+src/com/cognizant/controller/ApplyHomeLoanController.java:40	Parameter 'model' is not assigned and could be declared final
+src/com/cognizant/controller/ApplyHomeLoanController.java:41	Local variable 'accountNumber' could be declared final
+src/com/cognizant/controller/ApplyHomeLoanController.java:44	Local variable 'loanAccNum' could be declared final
+src/com/cognizant/controller/ApplyHomeLoanController.java:45	Avoid variables with short names like id
+src/com/cognizant/controller/ApplyHomeLoanController.java:45	Local variable 'id' could be declared final
+src/com/cognizant/controller/ApplyHomeLoanController.java:55	Avoid excessively long variable names like constraintViolations
+src/com/cognizant/controller/ApplyHomeLoanController.java:55	Local variable 'constraintViolations' could be declared final
+src/com/cognizant/controller/ApplyHomeLoanController.java:56	Local variable 'iterator' could be declared final
+src/com/cognizant/controller/ApplyHomeLoanController.java:69	Avoid printStackTrace(); use a logger call instead.
+src/com/cognizant/controller/ApplyHomeLoanController.java:72	Avoid variables with short names like sb
+src/com/cognizant/controller/ApplyHomeLoanController.java:80	Avoid printStackTrace(); use a logger call instead.
+src/com/cognizant/controller/ApplyHomeLoanController.java:87	A method should have only one exit point, and that should be the last statement in the method
+src/com/cognizant/controller/ApplyHomeLoanController.java:91	Avoid using if...else statements without curly braces
+src/com/cognizant/controller/PerformTransactionController.java:25	Use explicit scoping instead of the default package private level
+src/com/cognizant/controller/PerformTransactionController.java:26	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/controller/PerformTransactionController.java:27	Avoid excessively long variable names like transactionDetails
+src/com/cognizant/controller/PerformTransactionController.java:27	Use explicit scoping instead of the default package private level
+src/com/cognizant/controller/PerformTransactionController.java:32	Parameter 'AccName' is not assigned and could be declared final
+src/com/cognizant/controller/PerformTransactionController.java:32	Parameter 'model' is not assigned and could be declared final
+src/com/cognizant/controller/PerformTransactionController.java:40	Avoid excessively long variable names like transactionDetails
+src/com/cognizant/controller/PerformTransactionController.java:40	Parameter 'transactionDetails' is not assigned and could be declared final
+src/com/cognizant/controller/PerformTransactionController.java:41	Parameter 'model' is not assigned and could be declared final
+src/com/cognizant/controller/PerformTransactionController.java:41	Parameter 'msg' is not assigned and could be declared final
+src/com/cognizant/controller/PerformTransactionController.java:42	Local variable 'accountNumber' could be declared final
+src/com/cognizant/controller/PerformTransactionController.java:53	Avoid excessively long variable names like constraintViolations
+src/com/cognizant/controller/PerformTransactionController.java:53	Local variable 'constraintViolations' could be declared final
+src/com/cognizant/controller/PerformTransactionController.java:54	Local variable 'iterator' could be declared final
+src/com/cognizant/controller/PerformTransactionController.java:56	Local variable 'next' could be declared final
+src/com/cognizant/controller/PerformTransactionController.java:70	Avoid variables with short names like s
+src/com/cognizant/controller/PerformTransactionController.java:70	Local variable 's' could be declared final
+src/com/cognizant/controller/PerformTransactionController.java:71	Avoid calling toString() on String objects; this is unnecessary.
+src/com/cognizant/controller/PerformTransactionController.java:71	Avoid calling toString() on String objects; this is unnecessary.
+src/com/cognizant/controller/PerformTransactionController.java:72	A method should have only one exit point, and that should be the last statement in the method
+src/com/cognizant/controller/PerformTransactionController.java:79	Avoid printStackTrace(); use a logger call instead.
+src/com/cognizant/controller/PerformTransactionController.java:85	A method should have only one exit point, and that should be the last statement in the method
+src/com/cognizant/controller/UserLoginController.java:6	Avoid unused imports such as 'javax.servlet.http.HttpServletRequest'
+src/com/cognizant/controller/UserLoginController.java:6	Avoid unused imports such as 'javax.servlet.http.HttpServletRequest'
+src/com/cognizant/controller/UserLoginController.java:18	Avoid unused imports such as 'com.cognizant.entity.EducationLoan'
+src/com/cognizant/controller/UserLoginController.java:18	Avoid unused imports such as 'com.cognizant.entity.EducationLoan'
+src/com/cognizant/controller/UserLoginController.java:22	Use explicit scoping instead of the default package private level
+src/com/cognizant/controller/UserLoginController.java:23	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/controller/UserLoginController.java:25	Parameter 'AccNo' is not assigned and could be declared final
+src/com/cognizant/controller/UserLoginController.java:25	Parameter 'model' is not assigned and could be declared final
+src/com/cognizant/controller/UserLoginController.java:29	Local variable 'accountNumber' could be declared final
+src/com/cognizant/controller/UserLoginController.java:30	Local variable 'userDetails' could be declared final
+src/com/cognizant/controller/UserLoginController.java:36	Parameter 'model' is not assigned and could be declared final
+src/com/cognizant/controller/UserLoginController.java:36	Parameter 'msg' is not assigned and could be declared final
+src/com/cognizant/controller/UserLoginController.java:40	Local variable 'accountNumber' could be declared final
+src/com/cognizant/controller/UserLoginController.java:44	Local variable 'userDetails' could be declared final
+src/com/cognizant/controller/UserLoginController.java:46	Local variable 'List' could be declared final
+src/com/cognizant/controller/ViewEducationLoanController.java:21	Use explicit scoping instead of the default package private level
+src/com/cognizant/controller/ViewEducationLoanController.java:22	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/controller/ViewEducationLoanController.java:23	Use explicit scoping instead of the default package private level
+src/com/cognizant/controller/ViewEducationLoanController.java:28	Parameter 'AccName' is not assigned and could be declared final
+src/com/cognizant/controller/ViewEducationLoanController.java:28	Parameter 'AccNo' is not assigned and could be declared final
+src/com/cognizant/controller/ViewEducationLoanController.java:28	Parameter 'model' is not assigned and could be declared final
+src/com/cognizant/controller/ViewEducationLoanController.java:36	Parameter 'msg' is not assigned and could be declared final
+src/com/cognizant/controller/ViewEducationLoanController.java:37	Local variable 'accountNumber' could be declared final
+src/com/cognizant/controller/ViewEducationLoanController.java:42	Local variable 'eduLoan' could be declared final
+src/com/cognizant/controller/ViewHomeLoanController.java:11	Avoid unused imports such as 'com.cognizant.entity.UserDetails'
+src/com/cognizant/controller/ViewHomeLoanController.java:11	Avoid unused imports such as 'com.cognizant.entity.UserDetails'
+src/com/cognizant/controller/ViewHomeLoanController.java:23	Use explicit scoping instead of the default package private level
+src/com/cognizant/controller/ViewHomeLoanController.java:24	Avoid excessively long variable names like viewHomeLoanService
+src/com/cognizant/controller/ViewHomeLoanController.java:24	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/controller/ViewHomeLoanController.java:25	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/controller/ViewHomeLoanController.java:25	Perhaps 'homeLoans' could be replaced by a local variable.
+src/com/cognizant/controller/ViewHomeLoanController.java:30	Parameter 'AccName' is not assigned and could be declared final
+src/com/cognizant/controller/ViewHomeLoanController.java:30	Parameter 'AccNo' is not assigned and could be declared final
+src/com/cognizant/controller/ViewHomeLoanController.java:30	Parameter 'model' is not assigned and could be declared final
+src/com/cognizant/controller/ViewHomeLoanController.java:37	Parameter 'msg' is not assigned and could be declared final
+src/com/cognizant/controller/ViewHomeLoanController.java:38	Local variable 'accountNumber' could be declared final
+src/com/cognizant/controller/ViewTransactionController.java:20	Use explicit scoping instead of the default package private level
+src/com/cognizant/controller/ViewTransactionController.java:21	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/controller/ViewTransactionController.java:22	Avoid excessively long variable names like transactionDetails
+src/com/cognizant/controller/ViewTransactionController.java:22	Use explicit scoping instead of the default package private level
+src/com/cognizant/controller/ViewTransactionController.java:27	Parameter 'AccName' is not assigned and could be declared final
+src/com/cognizant/controller/ViewTransactionController.java:27	Parameter 'AccNo' is not assigned and could be declared final
+src/com/cognizant/controller/ViewTransactionController.java:27	Parameter 'model' is not assigned and could be declared final
+src/com/cognizant/controller/ViewTransactionController.java:35	Parameter 'msg' is not assigned and could be declared final
+src/com/cognizant/controller/ViewTransactionController.java:36	Local variable 'accountNumber' could be declared final
+src/com/cognizant/controller/ViewTransactionController.java:40	Avoid excessively long variable names like transactionDetailsList
+src/com/cognizant/controller/ViewTransactionController.java:40	Local variable 'transactionDetailsList' could be declared final
+src/com/cognizant/dao/ApplicationDAO.java:3	Each class should declare at least one constructor
+src/com/cognizant/dao/ApplyEducationLoanDAO.java:18	Avoid variables with short names like em
+src/com/cognizant/dao/ApplyEducationLoanDAO.java:18	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/dao/ApplyEducationLoanDAO.java:21	Parameter 'user' is not assigned and could be declared final
+src/com/cognizant/dao/ApplyEducationLoanDAO.java:29	Avoid variables with short names like i
+src/com/cognizant/dao/ApplyEducationLoanDAO.java:29	Parameter 'i' is not assigned and could be declared final
+src/com/cognizant/dao/ApplyEducationLoanDAO.java:31	Local variable 'user' could be declared final
+src/com/cognizant/dao/ApplyHomeLoanDao.java:17	Avoid variables with short names like em
+src/com/cognizant/dao/ApplyHomeLoanDao.java:17	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/dao/ApplyHomeLoanDao.java:20	Parameter 'userDetails' is not assigned and could be declared final
+src/com/cognizant/dao/ApplyHomeLoanDao.java:27	Avoid variables with short names like l
+src/com/cognizant/dao/ApplyHomeLoanDao.java:27	Parameter 'l' is not assigned and could be declared final
+src/com/cognizant/dao/ApplyHomeLoanDao.java:28	Local variable 'retrive' could be declared final
+src/com/cognizant/dao/PerformTransactionDAO.java:22	Avoid variables with short names like em
+src/com/cognizant/dao/PerformTransactionDAO.java:22	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/dao/PerformTransactionDAO.java:24	Parameter 'accountNumber' is not assigned and could be declared final
+src/com/cognizant/dao/PerformTransactionDAO.java:25	Local variable 'user' could be declared final
+src/com/cognizant/dao/PerformTransactionDAO.java:30	Parameter 'accountNumber' is not assigned and could be declared final
+src/com/cognizant/dao/PerformTransactionDAO.java:32	Local variable 'user' could be declared final
+src/com/cognizant/dao/PerformTransactionDAO.java:35	Local variable 'transaction' could be declared final
+src/com/cognizant/dao/PerformTransactionDAO.java:36	Consider simply returning the value vs storing it in local variable 'transaction'
+src/com/cognizant/dao/UserDetailsDAO.java:15	Avoid variables with short names like em
+src/com/cognizant/dao/UserDetailsDAO.java:15	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/dao/UserDetailsDAO.java:18	Avoid variables with short names like u
+src/com/cognizant/dao/UserDetailsDAO.java:18	Parameter 'u' is not assigned and could be declared final
+src/com/cognizant/dao/UserDetailsDAO.java:23	Avoid variables with short names like l
+src/com/cognizant/dao/UserDetailsDAO.java:23	Parameter 'l' is not assigned and could be declared final
+src/com/cognizant/dao/UserDetailsDAO.java:25	Local variable 'retrive' could be declared final
+src/com/cognizant/dao/ViewEducationLoanDAO.java:20	Use explicit scoping instead of the default package private level
+src/com/cognizant/dao/ViewEducationLoanDAO.java:21	Avoid variables with short names like em
+src/com/cognizant/dao/ViewEducationLoanDAO.java:21	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/dao/ViewEducationLoanDAO.java:24	Avoid variables with short names like i
+src/com/cognizant/dao/ViewEducationLoanDAO.java:24	Parameter 'i' is not assigned and could be declared final
+src/com/cognizant/dao/ViewEducationLoanDAO.java:27	Local variable 'retrive' could be declared final
+src/com/cognizant/dao/ViewHomeLoanDao.java:3	Avoid unused imports such as 'java.util.ArrayList'
+src/com/cognizant/dao/ViewHomeLoanDao.java:3	Avoid unused imports such as 'java.util.ArrayList'
+src/com/cognizant/dao/ViewHomeLoanDao.java:21	Avoid variables with short names like em
+src/com/cognizant/dao/ViewHomeLoanDao.java:21	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/dao/ViewHomeLoanDao.java:24	Avoid variables with short names like l
+src/com/cognizant/dao/ViewHomeLoanDao.java:24	Parameter 'l' is not assigned and could be declared final
+src/com/cognizant/dao/ViewHomeLoanDao.java:26	Local variable 'retrive' could be declared final
+src/com/cognizant/entity/EducationLoan.java:34	Avoid excessively long variable names like eduLoanAccountNumber
+src/com/cognizant/entity/EducationLoan.java:36	The String literal "Mandatory field" appears 5 times in this file; the first occurrence is on line 36
+src/com/cognizant/entity/EducationLoan.java:54	Avoid excessively long variable names like fatherAnnualIncome
+src/com/cognizant/entity/EducationLoan.java:83	Document empty constructor
+src/com/cognizant/entity/EducationLoan.java:98	Avoid excessively long variable names like fatherAnnualIncome
+src/com/cognizant/entity/EducationLoan.java:98	Parameter 'eduLoanAmount' is not assigned and could be declared final
+src/com/cognizant/entity/EducationLoan.java:98	Parameter 'eduLoanDuration' is not assigned and could be declared final
+src/com/cognizant/entity/EducationLoan.java:98	Parameter 'fatherAnnualIncome' is not assigned and could be declared final
+src/com/cognizant/entity/EducationLoan.java:98	Parameter 'loanApplyDate' is not assigned and could be declared final
+src/com/cognizant/entity/EducationLoan.java:99	Parameter 'courseFee' is not assigned and could be declared final
+src/com/cognizant/entity/EducationLoan.java:126	Avoid excessively long variable names like eduLoanAccountNumber
+src/com/cognizant/entity/EducationLoan.java:158	Avoid excessively long variable names like fatherAnnualIncome
+src/com/cognizant/entity/HomeLoan.java:12	Avoid unused imports such as 'javax.validation.constraints.Max'
+src/com/cognizant/entity/HomeLoan.java:12	Avoid unused imports such as 'javax.validation.constraints.Max'
+src/com/cognizant/entity/HomeLoan.java:15	Avoid unused imports such as 'javax.validation.constraints.Size'
+src/com/cognizant/entity/HomeLoan.java:15	Avoid unused imports such as 'javax.validation.constraints.Size'
+src/com/cognizant/entity/HomeLoan.java:18	Avoid unused imports such as 'org.springframework.format.annotation.DateTimeFormat'
+src/com/cognizant/entity/HomeLoan.java:18	Avoid unused imports such as 'org.springframework.format.annotation.DateTimeFormat'
+src/com/cognizant/entity/HomeLoan.java:20	No need to import a type that lives in the same package
+src/com/cognizant/entity/HomeLoan.java:33	The String literal "Mandatory field" appears 5 times in this file; the first occurrence is on line 33
+src/com/cognizant/entity/HomeLoan.java:66	Parameter 'loanAccountNumber' is not assigned and could be declared final
+src/com/cognizant/entity/HomeLoan.java:80	Parameter 'user' is not assigned and could be declared final
+src/com/cognizant/entity/HomeLoan.java:88	Parameter 'homeLoanId' is not assigned and could be declared final
+src/com/cognizant/entity/HomeLoan.java:96	Parameter 'loanAmount' is not assigned and could be declared final
+src/com/cognizant/entity/HomeLoan.java:104	Parameter 'loanDuration' is not assigned and could be declared final
+src/com/cognizant/entity/HomeLoan.java:180	Document empty constructor
+src/com/cognizant/entity/UserDetails.java:14	Use explicit scoping instead of the default package private level
+src/com/cognizant/entity/UserDetails.java:18	Use explicit scoping instead of the default package private level
+src/com/cognizant/entity/UserDetails.java:22	Use explicit scoping instead of the default package private level
+src/com/cognizant/entity/UserDetails.java:26	Use explicit scoping instead of the default package private level
+src/com/cognizant/entity/UserDetails.java:38	Parameter 'homeLoan' is not assigned and could be declared final
+src/com/cognizant/entity/UserDetails.java:42	Document empty constructor
+src/com/cognizant/entity/UserDetails.java:45	Parameter 'accountBalance' is not assigned and could be declared final
+src/com/cognizant/entity/UserDetails.java:45	Parameter 'accountNumber' is not assigned and could be declared final
+src/com/cognizant/entity/UserDetails.java:45	Parameter 'accountType' is not assigned and could be declared final
+src/com/cognizant/entity/UserDetails.java:45	Parameter 'acountHolderName' is not assigned and could be declared final
+src/com/cognizant/exception/ApplicationException.java:4	Parameter 'message' is not assigned and could be declared final
+src/com/cognizant/exception/ApplicationException.java:8	Parameter 'throwable' is not assigned and could be declared final
+src/com/cognizant/exception/ApplicationException.java:12	Parameter 'message' is not assigned and could be declared final
+src/com/cognizant/exception/ApplicationException.java:12	Parameter 'throwable' is not assigned and could be declared final
+src/com/cognizant/exception/BankMangementException.java:5	Parameter 'msg' is not assigned and could be declared final
+src/com/cognizant/exception/InvalidAccountBalance.java:5	Avoid variables with short names like s
+src/com/cognizant/exception/InvalidAccountBalance.java:5	Parameter 's' is not assigned and could be declared final
+src/com/cognizant/service/AppSERV.java:3	Each class should declare at least one constructor
+src/com/cognizant/service/ApplyEducationLoanService.java:17	Use explicit scoping instead of the default package private level
+src/com/cognizant/service/ApplyEducationLoanService.java:18	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/service/ApplyEducationLoanService.java:19	Use explicit scoping instead of the default package private level
+src/com/cognizant/service/ApplyEducationLoanService.java:20	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/service/ApplyEducationLoanService.java:20	Use explicit scoping instead of the default package private level
+src/com/cognizant/service/ApplyEducationLoanService.java:21	Use explicit scoping instead of the default package private level
+src/com/cognizant/service/ApplyEducationLoanService.java:24	Avoid variables with short names like l
+src/com/cognizant/service/ApplyEducationLoanService.java:24	Parameter 'l' is not assigned and could be declared final
+src/com/cognizant/service/ApplyEducationLoanService.java:26	Local variable 'idcard' could be declared final
+src/com/cognizant/service/ApplyEducationLoanService.java:27	Avoid variables with short names like id
+src/com/cognizant/service/ApplyEducationLoanService.java:27	Local variable 'id' could be declared final
+src/com/cognizant/service/ApplyEducationLoanService.java:28	Consider simply returning the value vs storing it in local variable 'id'
+src/com/cognizant/service/ApplyEducationLoanService.java:32	Local variable 'num' could be declared final
+src/com/cognizant/service/ApplyEducationLoanService.java:33	Consider simply returning the value vs storing it in local variable 'num'
+src/com/cognizant/service/ApplyEducationLoanService.java:36	Parameter 'user' is not assigned and could be declared final
+src/com/cognizant/service/ApplyEducationLoanService.java:42	Avoid variables with short names like e1
+src/com/cognizant/service/ApplyEducationLoanService.java:42	Avoid variables with short names like i
+src/com/cognizant/service/ApplyEducationLoanService.java:42	Parameter 'e1' is not assigned and could be declared final
+src/com/cognizant/service/ApplyEducationLoanService.java:42	Parameter 'i' is not assigned and could be declared final
+src/com/cognizant/service/ApplyEducationLoanService.java:44	Avoid variables with short names like id
+src/com/cognizant/service/ApplyEducationLoanService.java:44	Local variable 'id' could be declared final
+src/com/cognizant/service/ApplyEducationLoanService.java:47	Local variable 'courseFee' could be declared final
+src/com/cognizant/service/ApplyEducationLoanService.java:60	Found 'DD'-anomaly for variable 'count' (lines '60'-'63').
+src/com/cognizant/service/ApplyEducationLoanService.java:63	Found 'DD'-anomaly for variable 'count' (lines '63'-'63').
+src/com/cognizant/service/ApplyHomeLoanService.java:19	Use explicit scoping instead of the default package private level
+src/com/cognizant/service/ApplyHomeLoanService.java:20	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/service/ApplyHomeLoanService.java:21	Use explicit scoping instead of the default package private level
+src/com/cognizant/service/ApplyHomeLoanService.java:24	Use explicit scoping instead of the default package private level
+src/com/cognizant/service/ApplyHomeLoanService.java:25	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/service/ApplyHomeLoanService.java:25	Use explicit scoping instead of the default package private level
+src/com/cognizant/service/ApplyHomeLoanService.java:26	Avoid excessively long variable names like applyHomeLoanService
+src/com/cognizant/service/ApplyHomeLoanService.java:26	It is somewhat confusing to have a field name matching the declaring class name
+src/com/cognizant/service/ApplyHomeLoanService.java:26	Use explicit scoping instead of the default package private level
+src/com/cognizant/service/ApplyHomeLoanService.java:28	Parameter 'userDetails' is not assigned and could be declared final
+src/com/cognizant/service/ApplyHomeLoanService.java:34	Parameter 'accoNum' is not assigned and could be declared final
+src/com/cognizant/service/ApplyHomeLoanService.java:36	Avoid variables with short names like a
+src/com/cognizant/service/ApplyHomeLoanService.java:36	Local variable 'a' could be declared final
+src/com/cognizant/service/ApplyHomeLoanService.java:37	Avoid variables with short names like id
+src/com/cognizant/service/ApplyHomeLoanService.java:37	Local variable 'id' could be declared final
+src/com/cognizant/service/ApplyHomeLoanService.java:38	Consider simply returning the value vs storing it in local variable 'id'
+src/com/cognizant/service/ApplyHomeLoanService.java:42	Local variable 'num' could be declared final
+src/com/cognizant/service/ApplyHomeLoanService.java:43	Consider simply returning the value vs storing it in local variable 'num'
+src/com/cognizant/service/ApplyHomeLoanService.java:46	Avoid variables with short names like e6
+src/com/cognizant/service/ApplyHomeLoanService.java:46	Avoid variables with short names like l
+src/com/cognizant/service/ApplyHomeLoanService.java:46	Parameter 'e6' is not assigned and could be declared final
+src/com/cognizant/service/ApplyHomeLoanService.java:46	Parameter 'l' is not assigned and could be declared final
+src/com/cognizant/service/ApplyHomeLoanService.java:47	Found 'DU'-anomaly for variable 'income' (lines '47'-'74').
+src/com/cognizant/service/ApplyHomeLoanService.java:47	Local variable 'income' could be declared final
+src/com/cognizant/service/ApplyHomeLoanService.java:49	Found 'DU'-anomaly for variable 'loanAmount' (lines '49'-'74').
+src/com/cognizant/service/ApplyHomeLoanService.java:49	Local variable 'loanAmount' could be declared final
+src/com/cognizant/service/ApplyHomeLoanService.java:59	Avoid unused local variables such as 'd1'.
+src/com/cognizant/service/ApplyHomeLoanService.java:59	Avoid variables with short names like d1
+src/com/cognizant/service/ApplyHomeLoanService.java:59	Found 'DU'-anomaly for variable 'd1' (lines '59'-'74').
+src/com/cognizant/service/PerformTransactionService.java:21	Use explicit scoping instead of the default package private level
+src/com/cognizant/service/PerformTransactionService.java:22	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/service/PerformTransactionService.java:23	Avoid excessively long variable names like invalidAccountBalance
+src/com/cognizant/service/PerformTransactionService.java:23	Use explicit scoping instead of the default package private level
+src/com/cognizant/service/PerformTransactionService.java:26	Parameter 'accountNumber' is not assigned and could be declared final
+src/com/cognizant/service/PerformTransactionService.java:26	Parameter 'transaction' is not assigned and could be declared final
+src/com/cognizant/service/PerformTransactionService.java:29	Local variable 'user' could be declared final
+src/com/cognizant/service/PerformTransactionService.java:33	Local variable 'transactionList' could be declared final
+src/com/cognizant/service/PerformTransactionService.java:43	Parameter 'transactionAmount' is not assigned and could be declared final
+src/com/cognizant/service/PerformTransactionService.java:43	Parameter 'transactionType' is not assigned and could be declared final
+src/com/cognizant/service/PerformTransactionService.java:43	Parameter 'user' is not assigned and could be declared final
+src/com/cognizant/service/PerformTransactionService.java:45	Found 'DD'-anomaly for variable 'newBalance' (lines '45'-'48').
+src/com/cognizant/service/PerformTransactionService.java:45	Found 'DD'-anomaly for variable 'newBalance' (lines '45'-'53').
+src/com/cognizant/service/PerformTransactionService.java:47	Position literals first in String comparisons
+src/com/cognizant/service/PerformTransactionService.java:74	Avoid excessively long variable names like transactionDetails
+src/com/cognizant/service/PerformTransactionService.java:74	Local variable 'transactionDetails' could be declared final
+src/com/cognizant/service/PerformTransactionService.java:75	Consider simply returning the value vs storing it in local variable 'transactionDetails'
+src/com/cognizant/service/ViewEducationLoanService.java:15	Use explicit scoping instead of the default package private level
+src/com/cognizant/service/ViewEducationLoanService.java:16	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/service/ViewEducationLoanService.java:17	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/service/ViewEducationLoanService.java:17	Perhaps 'eduLoan' could be replaced by a local variable.
+src/com/cognizant/service/ViewEducationLoanService.java:19	Avoid variables with short names like i
+src/com/cognizant/service/ViewEducationLoanService.java:19	Parameter 'i' is not assigned and could be declared final
+src/com/cognizant/service/ViewHomeLoanService.java:9	Avoid unused imports such as 'com.cognizant.entity.UserDetails'
+src/com/cognizant/service/ViewHomeLoanService.java:9	Avoid unused imports such as 'com.cognizant.entity.UserDetails'
+src/com/cognizant/service/ViewHomeLoanService.java:14	Use explicit scoping instead of the default package private level
+src/com/cognizant/service/ViewHomeLoanService.java:15	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/service/ViewHomeLoanService.java:17	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cognizant/service/ViewHomeLoanService.java:17	Perhaps 'homeLoan' could be replaced by a local variable.
+src/com/cognizant/service/ViewHomeLoanService.java:19	Avoid variables with short names like l
+src/com/cognizant/service/ViewHomeLoanService.java:19	Parameter 'l' is not assigned and could be declared final
+src/test/java/TestApplyHomeLoan.java:22	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/TestApplyHomeLoan.java:23	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/TestApplyHomeLoan.java:23	Private field 'homeLoan' could be made final; it is only initialized in the declaration or constructor.
+src/test/java/TestApplyHomeLoan.java:24	Use explicit scoping instead of the default package private level
+src/test/java/TestApplyHomeLoan.java:25	Avoid excessively long variable names like applyHomeLoanService
+src/test/java/TestApplyHomeLoan.java:25	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/TestApplyHomeLoan.java:28	You may have misspelled a JUnit framework method (setUp or tearDown)
+src/test/java/TestApplyHomeLoan.java:32	Local variable 'home1' could be declared final
+src/test/java/TestApplyHomeLoan.java:33	Local variable 'home2' could be declared final
+src/test/java/TestApplyHomeLoan.java:36	Local variable 'loanACCNum' could be declared final
+src/test/java/TestApplyHomeLoan.java:37	Local variable 'loanACCNum1' could be declared final
+src/test/java/TestApplyHomeLoan.java:38	Avoid variables with short names like id
+src/test/java/TestApplyHomeLoan.java:38	Local variable 'id' could be declared final
+src/test/java/TestApplyHomeLoan.java:54	JUnit tests should include assert() or fail()
+src/test/java/TestApplyHomeLoan.java:67	Avoid variables with short names like d1
+src/test/java/TestApplyHomeLoan.java:68	Avoid variables with short names like e8
+src/test/java/TestApplyHomeLoan.java:70	Avoid variables with short names like id
+src/test/java/TestEducationLoan.java:3	Avoid unused imports such as 'org.junit.Assert'
+src/test/java/TestEducationLoan.java:24	Use explicit scoping instead of the default package private level
+src/test/java/TestEducationLoan.java:25	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/TestEducationLoan.java:27	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/TestEducationLoan.java:28	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/TestEducationLoan.java:31	You may have misspelled a JUnit framework method (setUp or tearDown)
+src/test/java/TestEducationLoan.java:34	Avoid excessively long variable names like loanAccountNumber1
+src/test/java/TestEducationLoan.java:34	Local variable 'loanAccountNumber1' could be declared final
+src/test/java/TestEducationLoan.java:35	Avoid excessively long variable names like loanAccountNumber2
+src/test/java/TestEducationLoan.java:35	Local variable 'loanAccountNumber2' could be declared final
+src/test/java/TestEducationLoan.java:37	Avoid variables with short names like d1
+src/test/java/TestEducationLoan.java:37	Local variable 'd1' could be declared final
+src/test/java/TestEducationLoan.java:38	Avoid variables with short names like d2
+src/test/java/TestEducationLoan.java:38	Local variable 'd2' could be declared final
+src/test/java/TestEducationLoan.java:40	Avoid variables with short names like e1
+src/test/java/TestEducationLoan.java:40	Local variable 'e1' could be declared final
+src/test/java/TestEducationLoan.java:41	Avoid variables with short names like e2
+src/test/java/TestEducationLoan.java:62	Avoid printStackTrace(); use a logger call instead.
+src/test/java/TestEducationLoan.java:68	JUnit 4 tests that execute tests should use the @Test annotation
+src/test/java/TestEducationLoan.java:69	Avoid variables with short names like i
+src/test/java/TestPerformTransaction.java:3	Avoid unused imports such as 'org.junit.Assert'
+src/test/java/TestPerformTransaction.java:21	Use explicit scoping instead of the default package private level
+src/test/java/TestPerformTransaction.java:22	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/TestPerformTransaction.java:23	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/TestPerformTransaction.java:23	Use explicit scoping instead of the default package private level
+src/test/java/TestPerformTransaction.java:34	JUnit assertions should include a message
+src/test/java/TestPerformTransaction.java:34	assertTrue(true) or similar statements are unnecessary
+src/test/java/TestPerformTransaction.java:39	Avoid excessively long variable names like transactionDetails
+src/test/java/TestPerformTransaction.java:39	Local variable 'transactionDetails' could be declared final
+src/test/java/TestPerformTransaction.java:40	JUnit assertions should include a message
+src/test/java/TestUserDetails.java:3	Avoid unused imports such as 'org.junit.Assert'
+src/test/java/TestUserDetails.java:5	Avoid unused imports such as 'org.junit.Before'
+src/test/java/TestUserDetails.java:5	Avoid unused imports such as 'org.junit.Before'
+src/test/java/TestUserDetails.java:20	Use explicit scoping instead of the default package private level
+src/test/java/TestUserDetails.java:21	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/TestUserDetails.java:24	You may have misspelled a JUnit framework method (setUp or tearDown)
+src/test/java/TestUserDetails.java:25	Avoid unused local variables such as 'user'.
+src/test/java/TestUserDetails.java:25	Found 'DU'-anomaly for variable 'user' (lines '25'-'27').
+src/test/java/TestUserDetails.java:25	Local variable 'user' could be declared final
+src/test/java/TestUserDetails.java:31	Local variable 'user' could be declared final
+src/test/java/TestUserDetails.java:33	JUnit assertions should include a message
+src/test/java/TestUserDetails.java:33	assertTrue(true) or similar statements are unnecessary
+src/test/java/TestViewEducationLoan.java:3	Avoid unused imports such as 'org.junit.Test'
+src/test/java/TestViewEducationLoan.java:3	Avoid unused imports such as 'org.junit.Test'
+src/test/java/TestViewEducationLoan.java:18	Each class should declare at least one constructor
+src/test/java/TestViewEducationLoan.java:20	Use explicit scoping instead of the default package private level
+src/test/java/TestViewEducationLoan.java:22	Avoid unused private fields such as 'eduLoan'.
+src/test/java/TestViewEducationLoan.java:22	Private field 'eduLoan' could be made final; it is only initialized in the declaration or constructor.
+src/test/java/TestViewHomeLoan.java:19	Use explicit scoping instead of the default package private level
+src/test/java/TestViewHomeLoan.java:20	Avoid excessively long variable names like viewHOmeLoanService
+src/test/java/TestViewHomeLoan.java:20	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/TestViewHomeLoan.java:21	Avoid unused private fields such as 'homeLoan'.
+src/test/java/TestViewHomeLoan.java:21	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/TestViewHomeLoan.java:21	Perhaps 'homeLoan' could be replaced by a local variable.
+src/test/java/TestViewHomeLoan.java:24	JUnit tests should include assert() or fail()
